@@ -7,4 +7,4 @@
 - then run yarn dev or npm run dev to run this task
 - thanks Pregex for this opportunity
 
-#### all rights reserved ** a7mdmo74 ** 2023
+#### all rights reserved **a7mdmo74** 2023
